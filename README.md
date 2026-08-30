@@ -1,0 +1,2 @@
+# Undergraduate-Projects---Sankalp-Mohanty
+A summary of select electrical engineering projects completed by Sankalp Mohanty during his undergraduate studies at Texas A&amp;M University.
